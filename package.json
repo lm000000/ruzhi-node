@@ -1,0 +1,12 @@
+{
+  "name": "demo_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-jwt": "^6.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.13"
+  }
+}
